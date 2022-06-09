@@ -1,0 +1,40 @@
+h3 {
+    color:fuchsia;
+    text-align: center;
+    word-spacing: 10px;
+    background-color: black;
+}
+h1 {
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    background-image: url(../img/oped_traffic_jam\ \(1\).jpg);  
+    background-attachment:fixed;
+    background-position:top;
+    line-height: 500px;
+    word-spacing: 10px;
+}
+
+#p_1 {
+    color:blueviolet;
+    font-size: 10px;
+    text-decoration: underline;
+}
+#p_2 {
+    color:brown;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration-style:wavy;
+    text-align: justify;
+}
+#p_3 {
+    color:red;
+    font-size: 30px;
+    text-decoration:line-through;
+    text-align: justify;
+}
+.p_style {
+    color:red;
+    font-size: 20px;
+    background-color: aqua;
+}
